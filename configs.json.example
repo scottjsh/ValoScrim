@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "token": "bot token",
+  "dbUser": "mongo db id",
+  "dbPass": "mongo db password",
+  "version": "0.1",
+  "apiKeyHDev": "HDEV API KEY"
+}
